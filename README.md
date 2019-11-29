@@ -1,0 +1,2 @@
+# primarator
+Prime numbers generator
